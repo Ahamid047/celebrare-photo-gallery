@@ -29,7 +29,7 @@ A responsive photo gallery built with React, Vite, and Tailwind CSS. It fetches 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/photopedia.git
+git clone https://github.com/Ahamid047/celebrare-photo-gallery
 cd photopedia
 npm install
 ```
